@@ -1,0 +1,1 @@
+var mascotList = [ "sakura_01.png", "sakura_02.png", "sakura_03.png", "sakura_04.png", "sakura_05.png", "sakura_06.png" ];
